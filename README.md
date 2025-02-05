@@ -1,0 +1,1 @@
+This repository demonstrates a common closure-related bug in JavaScript when using `setTimeout` within a loop. The provided code and solution illustrate the problem and how to fix it using either a closure (immediately-invoked function expression or IIFE) or the `let` keyword with block scope.
